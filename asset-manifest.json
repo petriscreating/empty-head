@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/petriscreating/empty-head/static/css/main.073c9b0a.css",
+    "main.js": "/petriscreating/empty-head/static/js/main.89906e45.js",
+    "static/js/787.4f4c6fde.chunk.js": "/petriscreating/empty-head/static/js/787.4f4c6fde.chunk.js",
+    "static/media/logo.svg": "/petriscreating/empty-head/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/petriscreating/empty-head/index.html",
+    "main.073c9b0a.css.map": "/petriscreating/empty-head/static/css/main.073c9b0a.css.map",
+    "main.89906e45.js.map": "/petriscreating/empty-head/static/js/main.89906e45.js.map",
+    "787.4f4c6fde.chunk.js.map": "/petriscreating/empty-head/static/js/787.4f4c6fde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.89906e45.js"
+  ]
+}
